@@ -1,0 +1,27 @@
+{
+  "name": "wp-theme",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build:js": "webpack --mode=production"
+  },
+  "keywords": [],
+  "author": "opipi",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "ie >= 11",
+    "Android >= 4"
+  ],
+  "dependencies": {
+    "three": "^0.155.0",
+    "three-orbitcontrols": "^2.110.3"
+  }
+}
