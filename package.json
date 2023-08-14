@@ -21,6 +21,7 @@
     "Android >= 4"
   ],
   "dependencies": {
+    "simplenoise": "^1.0.1",
     "three": "^0.155.0",
     "three-orbitcontrols": "^2.110.3"
   }
