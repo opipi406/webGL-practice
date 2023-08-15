@@ -1,2 +1,2 @@
 // エントリポイント
-import './main'
+import './grid-wave/main'
